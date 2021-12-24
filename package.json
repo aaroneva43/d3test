@@ -1,7 +1,7 @@
 {
   "name": "d3test",
   "version": "1.0.0",
-  "description": "",
+  "description": "d3js test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/aaroneva43/d3test.git"
   },
-  "author": "aaron",
-  "license": "MIT",
+  "keywords": [
+    "d3js"
+  ],
+  "author": "aaron x",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/aaroneva43/d3test/issues"
   },
-  "homepage": "https://github.com/aaroneva43/d3test#readme"
+  "homepage": "https://github.com/aaroneva43/d3test#readme",
+  "dependencies": {
+    "d3": "^7.1.1"
+  }
 }
